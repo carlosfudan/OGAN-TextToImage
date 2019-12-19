@@ -1,0 +1,6 @@
+model_checkpoint_path: "latest_model_flowers_temp.ckpt"
+all_model_checkpoint_paths: "model_after_flowers_epoch_75.ckpt"
+all_model_checkpoint_paths: "model_after_flowers_epoch_80.ckpt"
+all_model_checkpoint_paths: "model_after_flowers_epoch_85.ckpt"
+all_model_checkpoint_paths: "model_after_flowers_epoch_90.ckpt"
+all_model_checkpoint_paths: "latest_model_flowers_temp.ckpt"
