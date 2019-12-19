@@ -4,4 +4,4 @@ Imagine that you can see the scene by a  sentence. When you are reading a novel,
 
 
 ---
-![image](http://github.com/carlosfudan/OGAN-TextToImage/master/Data/pic.png)
+![image](https://github.com/carlosfudan/OGAN-TextToImage/blob/master/Data/Models/pic.png)
